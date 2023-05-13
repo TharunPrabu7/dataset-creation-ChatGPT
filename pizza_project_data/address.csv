@@ -1,0 +1,20 @@
+add_id,delivery_address1,delivery_address2,delivery_city,delivery_zipcode
+1,123 Main St,Apt 4B,New York,10001
+2,456 Maple Ave,,Los Angeles,90012
+3,789 Oak St,,Chicago,60610
+4,111 Pine St,,San Francisco,94111
+5,222 Elm St,,Boston,2116
+6,333 Cherry Ln,,Houston,77002
+7,444 Peachtree Ave,,Atlanta,30303
+8,555 Market St,Suite 100,Philadelphia,19106
+9,666 State St,,Phoenix,85004
+10,777 Madison Ave,,New York,10028
+11,888 Maple St,,Los Angeles,90015
+12,999 Oak Blvd,,Chicago,60611
+13,1010 Pine Ave,,San Francisco,94115
+14,1111 Elm Dr,,Boston,2115
+15,1212 Cherry St,,Houston,77003
+16,1313 Peachtree Blvd,,Atlanta,30304
+17,1414 Market Ave,Suite 200,Philadelphia,19107
+18,1515 State Dr,,Phoenix,85005
+19,1616 Madison Blvd,,New York,10029

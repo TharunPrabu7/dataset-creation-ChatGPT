@@ -1,0 +1,11 @@
+ing_id,ing_name,ing_weight,ing_meas,ing_price
+ING001,Flour,1 kg,kg,2.99
+ING002,Tomato Sauce,1 L,L,3.99
+ING003,Mozzarella Cheese,1 kg,kg,8.99
+ING004,Pepperoni,500 g,g,5.99
+ING005,Mushroom,500 g,g,3.99
+ING006,Onion,500 g,g,2.99
+ING007,Garlic,500 g,g,3.99
+ING008,Olive Oil,1 L,L,7.99
+ING009,Parmesan Cheese,500 g,g,9.99
+ING010,Croutons,1 kg,kg,4.99

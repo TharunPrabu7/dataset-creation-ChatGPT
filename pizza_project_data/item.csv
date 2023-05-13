@@ -1,0 +1,6 @@
+item_id,sku,item_name,item_cat,item_size,item_price
+ITM001,SKU001,Margherita Pizza,Pizza,12 inches,9.99
+ITM002,SKU002,Pepperoni Pizza,Pizza,12 inches,11.99
+ITM003,SKU003,Veggie Pizza,Pizza,12 inches,12.99
+ITM004,SKU004,Garlic Bread,Appetizer,8 pieces,5.99
+ITM005,SKU005,Caesar Salad,Salad,Small,6.99
